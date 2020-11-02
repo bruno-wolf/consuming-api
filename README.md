@@ -1,14 +1,26 @@
-#consumir API
+# consuming API
 
-#API
-
-criar uma API
-- [x] iniciar o projeto `npm init -y`
-- [x] instalar dependências `npm i express nodemon cors axios`
-- [] criar uma rota para aceder à API
+## API
+create an API
+- [x] start project `npm init -y`
+- [x] add dependencies `npm i express nodemon cors axios`
+- [x] criar uma rota para aceder à API
+- [x] start server `node src/server.js`
 - [] servir a API 
-- [] adicionar o CORS
-- [] adicionar o nodemon (reiniciar o servidor)
+- [x] adicionar o CORS
+- [x] adicionar o nodemon (reiniciar o servidor)
+
 
 ## front-end
-Consumir API
+Consuming the API
+- [x] Utilizar API para consumir a API backend
+- [x] Explicar promise - async/await
+- [x] use try/catch
+- [s] use lite-server `npx lite-server`
+- [] apresentar resposta no ecrã
+
+## backend
+Consuming the API
+- [] jsonplaceholder
+- [] usar axios
+- [] semelhanças entre axios e fetch
