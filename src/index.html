@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>API connection</title>
+</head>
+
+<body>
+
+  <script>
+
+    async function getContent() {
+      try {
+        const response = await fetch('http://localhost:3333/');
+      } catch (error) {
+        console.error('Dammm')
+      }
+    }
+
+    getContent();
+
+  </script>
+</body>
+
+</html>
