@@ -6,7 +6,7 @@ create an API
 - [x] add dependencies `npm i express nodemon cors axios`
 - [x] criar uma rota para aceder à API
 - [x] start server `node src/server.js`
-- [] servir a API 
+- [x] servir a API 
 - [x] adicionar o CORS
 - [x] adicionar o nodemon (reiniciar o servidor)
 
@@ -17,7 +17,7 @@ Consuming the API
 - [x] Explicar promise - async/await
 - [x] use try/catch
 - [s] use lite-server `npx lite-server`
-- [] apresentar resposta no ecrã
+- [x] apresentar resposta no ecrã
 
 ## backend
 Consuming the API
