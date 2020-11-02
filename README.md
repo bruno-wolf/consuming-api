@@ -21,6 +21,6 @@ Consuming the API
 
 ## backend
 Consuming the API
-- [] jsonplaceholder
-- [] usar axios
-- [] semelhanças entre axios e fetch
+- [x] API jsonplaceholder (https://jsonplaceholder.typicode.com/users)
+- [x] usar axios
+- [x] semelhanças entre axios e fetch
